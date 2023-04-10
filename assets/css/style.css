@@ -408,8 +408,8 @@ h6 {
 
         #hero .carousel-item::before {
             content: "";
-/*            background-color: rgb(222, 218, 25, 0.30);
-*/        }
+            background-color: rgb(15, 148, 4, 0.20);
+        }
 
     #hero .carousel-container {
         display: flex;
